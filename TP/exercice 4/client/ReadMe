@@ -1,0 +1,5 @@
+- Mode de réapprovisionnement choisi:
+ Le mode utilisé au cours du développement de ce logiciel de gestion est le modèle de 
+ récomplétement du stockMaximun. Il consiste à lancer une commande aussitôt que le stock
+ actuel est égale au stock minimum; la commande lancé est : stock maximum - stock disponible 
+ 
